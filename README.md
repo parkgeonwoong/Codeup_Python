@@ -1,8 +1,7 @@
-# Codeup_Python
-
 # CodeUP 기초 100문제
   - Algorithm Test prepare
   - Self-improvement
+
 
 ## 개발 환경
   - 사용 언어 : Python
