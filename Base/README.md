@@ -8,4 +8,3 @@
   - 실행 IDE : PyCharm 2020.3.3 (Community Edition)
 
 
-### 기초 문제이므로 이미지로 대체함
