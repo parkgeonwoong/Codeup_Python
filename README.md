@@ -1,4 +1,5 @@
 # CodeUP 기초 100문제
+  - Practicing Python
   - Practicing Algorithm Test 
   - Self-improvement
 
