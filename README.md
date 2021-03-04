@@ -1,5 +1,5 @@
 # CodeUP 기초 100문제
-  - Algorithm Test prepare
+  - Practicing Algorithm Test 
   - Self-improvement
 
 
